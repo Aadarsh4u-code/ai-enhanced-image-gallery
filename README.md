@@ -398,7 +398,8 @@ npm run dev:frontend
 
 **Backend Only:**
 ```bash
-npm run dev:backend
+cd server && 
+npm run dev
 ```
 
 **Build Frontend:**
