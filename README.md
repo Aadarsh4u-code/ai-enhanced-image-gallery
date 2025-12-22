@@ -50,10 +50,27 @@ We will evaluate your submission on the quality of the frontend implementation, 
 # Assignment Work starts from here 
 
 
-
 # AI-Enhanced Image Gallery
 
 A full-stack application featuring a responsive image gallery with AI-powered semantic search, intelligent image classification, and an interactive chat assistant.
+
+**UI**
+
+![HomepageUI](./screenshort/ai-enhanced-image-gallery-ui.png)
+
+**Tags For Filter Image**
+
+![HomepageUI](./screenshort/ai-enhanced-image-gallery-tags.png)
+
+
+**AI Assistance**
+
+![HomepageUI](./screenshort/ai-enhanced-image-gallery-chatbot.png)
+
+**AI Assistance Chat**
+
+![HomepageUI](./screenshort/ai-enhanced-image-gallery-chatbot-chat.png)
+
 
 ## 🎯 Project Overview
 
